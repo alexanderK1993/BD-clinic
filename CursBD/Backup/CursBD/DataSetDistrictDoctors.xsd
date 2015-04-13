@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetDistrictDoctors" targetNamespace="http://tempuri.org/DataSetDistrictDoctors.xsd" xmlns:mstns="http://tempuri.org/DataSetDistrictDoctors.xsd" xmlns="http://tempuri.org/DataSetDistrictDoctors.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetDistrictDoctors" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSetDistrictDoctors" msprop:Generator_DataSetName="DataSetDistrictDoctors">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DistrictDoctors" msprop:Generator_UserTableName="DistrictDoctors" msprop:Generator_RowDeletedName="DistrictDoctorsRowDeleted" msprop:Generator_TableClassName="DistrictDoctorsDataTable" msprop:Generator_RowChangedName="DistrictDoctorsRowChanged" msprop:Generator_RowClassName="DistrictDoctorsRow" msprop:Generator_RowChangingName="DistrictDoctorsRowChanging" msprop:Generator_RowEvArgName="DistrictDoctorsRowChangeEvent" msprop:Generator_RowEvHandlerName="DistrictDoctorsRowChangeEventHandler" msprop:Generator_TablePropName="DistrictDoctors" msprop:Generator_TableVarName="tableDistrictDoctors" msprop:Generator_RowDeletingName="DistrictDoctorsRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="number" msprop:Generator_UserColumnName="number" msprop:Generator_ColumnPropNameInRow="number" msprop:Generator_ColumnVarNameInTable="columnnumber" msprop:Generator_ColumnPropNameInTable="numberColumn" type="xs:int" />
+              <xs:element name="номер_x0020_участка" msprop:Generator_UserColumnName="номер участка" msprop:Generator_ColumnPropNameInRow="номер_участка" msprop:Generator_ColumnVarNameInTable="columnномер_участка" msprop:Generator_ColumnPropNameInTable="номер_участкаColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Фамилия" msprop:Generator_UserColumnName="Фамилия" msprop:Generator_ColumnPropNameInRow="Фамилия" msprop:Generator_ColumnVarNameInTable="columnФамилия" msprop:Generator_ColumnPropNameInTable="ФамилияColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="60" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Имя" msprop:Generator_UserColumnName="Имя" msprop:Generator_ColumnPropNameInRow="Имя" msprop:Generator_ColumnVarNameInTable="columnИмя" msprop:Generator_ColumnPropNameInTable="ИмяColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Отчество" msprop:Generator_UserColumnName="Отчество" msprop:Generator_ColumnPropNameInRow="Отчество" msprop:Generator_ColumnVarNameInTable="columnОтчество" msprop:Generator_ColumnPropNameInTable="ОтчествоColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="60" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="кабинет" msprop:Generator_UserColumnName="кабинет" msprop:Generator_ColumnPropNameInRow="кабинет" msprop:Generator_ColumnVarNameInTable="columnкабинет" msprop:Generator_ColumnPropNameInTable="кабинетColumn" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DistrictDoctors" />
+      <xs:field xpath="mstns:number" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

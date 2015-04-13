@@ -1,0 +1,13 @@
+I:\BD curs\CursBD\CursBD\obj\Debug\CursBD.exe
+I:\BD curs\CursBD\CursBD\obj\Debug\CursBD.pdb
+I:\BD curs\CursBD\CursBD\bin\Debug\CursBD.exe
+I:\BD curs\CursBD\CursBD\bin\Debug\CursBD.pdb
+I:\BD curs\CursBD\CursBD\obj\Debug\CursBD.ConnectionForm.resources
+I:\BD curs\CursBD\CursBD\obj\Debug\CursBD.FormAdminPage.resources
+I:\BD curs\CursBD\CursBD\obj\Debug\CursBD.FormDistrictsDoctors.resources
+I:\BD curs\CursBD\CursBD\obj\Debug\CursBD.FormMain.resources
+I:\BD curs\CursBD\CursBD\obj\Debug\CursBD.FormPacient.resources
+I:\BD curs\CursBD\CursBD\obj\Debug\CursBD.Properties.Resources.resources
+I:\BD curs\CursBD\CursBD\obj\Debug\CursBD.csproj.GenerateResource.Cache
+I:\учеба\BD curs\CursBD\CursBD\obj\Debug\CursBD.exe
+I:\учеба\BD curs\CursBD\CursBD\obj\Debug\CursBD.pdb

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CursBD">
+</Property><Property Name="Файл решения" Value="I:\BD curs\CursBD\CursBD.sln">
+</Property><Property Name="Файл параметров пользователя" Value="I:\BD curs\CursBD\CursBD.suo">
+</Property><Property Name="Date" Value="23 ноября 2014 г.">
+</Property><Property Name="Time" Value="12:32">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CursBD.sln" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD.sln">
+</Event><Event ErrorLevel="0" Project="" Source="CursBD.suo" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD.suo">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\CursBD.csproj" Description="Успешно создана резервная копия файла проекта: I:\BD curs\CursBD\Backup\CursBD\CursBD.csproj">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\ConnectionForm.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\ConnectionForm.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\ConnectionForm.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\ConnectionForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\DataSetDistrictDoctors.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\DataSetDistrictDoctors.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormAdminPage.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormAdminPage.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormAdminPage.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormAdminPage.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormDeleteDistricsSheldure.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormDeleteDistricsSheldure.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormDeleteDistricsSheldure.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormDeleteDistricsSheldure.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormDeleteDistrictsDoctors.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormDeleteDistrictsDoctors.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormDeleteDistrictsDoctors.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormDeleteDistrictsDoctors.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormDeletePacients.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormDeletePacients.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormDeletePacients.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormDeletePacients.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormDeleteProcedureSheldure.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormDeleteProcedureSheldure.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormDeleteProcedureSheldure.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormDeleteProcedureSheldure.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormDeleteServices.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormDeleteServices.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormDeleteServices.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormDeleteServices.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormDeleteSpecialDoctors.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormDeleteSpecialDoctors.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormDeleteSpecialDoctors.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormDeleteSpecialDoctors.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormDeleteSpecialSheldure.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormDeleteSpecialSheldure.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormDeleteSpecialSheldure.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormDeleteSpecialSheldure.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormDistricsSheldure.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormDistricsSheldure.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormDistricsSheldure.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormDistricsSheldure.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormDistrictsDoctors.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormDistrictsDoctors.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormDistrictsDoctors.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormDistrictsDoctors.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormDoctorPage.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormDoctorPage.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormDoctorPage.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormDoctorPage.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormEditDistricsSheldure.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormEditDistricsSheldure.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormEditDistricsSheldure.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormEditDistricsSheldure.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormEditDistrictsDoctors.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormEditDistrictsDoctors.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormEditDistrictsDoctors.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormEditDistrictsDoctors.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormEditPacients.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormEditPacients.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormEditPacients.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormEditPacients.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormEditProcedureSheldure.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormEditProcedureSheldure.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormEditProcedureSheldure.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormEditProcedureSheldure.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormEditServices.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormEditServices.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormEditServices.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormEditServices.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormEditSpecialDoctors.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormEditSpecialDoctors.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormEditSpecialDoctors.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormEditSpecialDoctors.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormEditSpecialSheldure.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormEditSpecialSheldure.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormEditSpecialSheldure.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormEditSpecialSheldure.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormMain.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormMain.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormMain.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormPacient.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormPacient.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormPacient.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormPacient.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormPacients.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormPacients.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormPacients.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormPacients.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormProcedureSheldure.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormProcedureSheldure.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormProcedureSheldure.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormProcedureSheldure.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormServices.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormServices.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormServices.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormServices.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormSpecialDoctors.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormSpecialDoctors.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormSpecialDoctors.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormSpecialDoctors.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormSpecialSheldure.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormSpecialSheldure.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormSpecialSheldure.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormSpecialSheldure.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormViewCab.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormViewCab.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormViewCab.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormViewCab.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormViewDistricsSheldure.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormViewDistricsSheldure.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormViewDistricsSheldure.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormViewDistricsSheldure.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormViewDistricts.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormViewDistricts.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormViewDistricts.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormViewDistricts.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormViewDistrictsDoctors.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormViewDistrictsDoctors.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormViewDistrictsDoctors.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormViewDistrictsDoctors.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormViewPacients.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormViewPacients.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormViewPacients.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormViewPacients.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormViewProcedureCab.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormViewProcedureCab.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormViewProcedureCab.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormViewProcedureCab.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormViewProcedureSheldure.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormViewProcedureSheldure.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormViewProcedureSheldure.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormViewProcedureSheldure.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormViewRecieve.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormViewRecieve.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormViewRecieve.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormViewRecieve.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormViewRecord.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormViewRecord.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormViewRecord.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormViewRecord.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormViewServices.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormViewServices.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormViewServices.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormViewServices.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormViewServicesRendered.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormViewServicesRendered.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormViewServicesRendered.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormViewServicesRendered.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormViewSpecialDoctors.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormViewSpecialDoctors.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormViewSpecialDoctors.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormViewSpecialDoctors.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormViewSpecialSheldure.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormViewSpecialSheldure.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormViewSpecialSheldure.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormViewSpecialSheldure.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\Program.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\Program.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\Properties\Resources.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\Properties\Settings.Designer.cs" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\DataSetDistrictDoctors.xsc" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\DataSetDistrictDoctors.xsc">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\DataSetDistrictDoctors.xsd" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\DataSetDistrictDoctors.xsd">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\DataSetDistrictDoctors.xss" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\DataSetDistrictDoctors.xss">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\Properties\Settings.settings" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\ConnectionForm.resx" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\ConnectionForm.resx">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormAdminPage.resx" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormAdminPage.resx">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormDistrictsDoctors.resx" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormDistrictsDoctors.resx">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormMain.resx" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormMain.resx">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\FormPacient.resx" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\FormPacient.resx">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\Properties\Resources.resx" Description="Успешно создана резервная копия файла I:\BD curs\CursBD\Backup\CursBD\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="CursBD" Source="CursBD\CursBD.csproj" Description="Этот проект рассчитан на .NET Framework версии 2.0 или 3.0. Если проект будет использовать сборки, требующие более новую версию .NET Framework, возникнет ошибка построения. Чтобы изменить версию .NET Framework, выберите пункт &quot;Свойства&quot; в меню проекта, затем выберите новую версию в раскрывающемся списке &quot;.NET Framework&quot;. (В Visual Basic этот список находится на вкладке &quot;Компиляция&quot;, открываемой при нажатии кнопки &quot;Дополнительные параметры компилятора&quot;.)">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\CursBD.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="CursBD" Source="CursBD\CursBD.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CursBD.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="CursBD.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CursBD" Source="CursBD\CursBD.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>

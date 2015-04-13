@@ -1,0 +1,42 @@
+C:\Documents and Settings\Admin\Рабочий стол\CursBD\CursBD\CursBD\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\CursBD\CursBD\CursBD\obj\Debug\CursBD.FormMain.resources
+C:\Documents and Settings\Admin\Рабочий стол\CursBD\CursBD\CursBD\obj\Debug\CursBD.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\CursBD\CursBD\CursBD\obj\Debug\CursBD.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Рабочий стол\CursBD\CursBD\CursBD\obj\Debug\CursBD.ConnectionForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\CursBD\CursBD\CursBD\obj\Debug\CursBD.FormAdminPage.resources
+C:\Documents and Settings\Admin\Рабочий стол\CursBD\CursBD\CursBD\bin\Debug\CursBD.exe
+C:\Documents and Settings\Admin\Рабочий стол\CursBD\CursBD\CursBD\bin\Debug\CursBD.pdb
+C:\Documents and Settings\Admin\Рабочий стол\CursBD\CursBD\CursBD\obj\Debug\CursBD.exe
+C:\Documents and Settings\Admin\Рабочий стол\CursBD\CursBD\CursBD\obj\Debug\CursBD.pdb
+F:\CursBD\CursBD\obj\Debug\CursBD.exe
+F:\CursBD\CursBD\obj\Debug\CursBD.pdb
+F:\CursBD\CursBD\bin\Debug\CursBD.exe
+F:\CursBD\CursBD\bin\Debug\CursBD.pdb
+F:\CursBD\CursBD\obj\Debug\ResolveAssemblyReference.cache
+F:\CursBD\CursBD\obj\Debug\CursBD.ConnectionForm.resources
+F:\CursBD\CursBD\obj\Debug\CursBD.FormAdminPage.resources
+F:\CursBD\CursBD\obj\Debug\CursBD.FormMain.resources
+F:\CursBD\CursBD\obj\Debug\CursBD.Properties.Resources.resources
+F:\CursBD\CursBD\obj\Debug\CursBD.csproj.GenerateResource.Cache
+E:\CursBD\Новая папка\CursBD\CursBD\obj\Debug\CursBD.exe
+E:\CursBD\Новая папка\CursBD\CursBD\obj\Debug\CursBD.pdb
+E:\CursBD\Новая папка\CursBD\CursBD\bin\Debug\CursBD.exe
+E:\CursBD\Новая папка\CursBD\CursBD\bin\Debug\CursBD.pdb
+E:\CursBD\Новая папка\CursBD\CursBD\obj\Debug\ResolveAssemblyReference.cache
+E:\CursBD\Новая папка\CursBD\CursBD\obj\Debug\CursBD.ConnectionForm.resources
+E:\CursBD\Новая папка\CursBD\CursBD\obj\Debug\CursBD.FormAdminPage.resources
+E:\CursBD\Новая папка\CursBD\CursBD\obj\Debug\CursBD.FormMain.resources
+E:\CursBD\Новая папка\CursBD\CursBD\obj\Debug\CursBD.Properties.Resources.resources
+E:\CursBD\Новая папка\CursBD\CursBD\obj\Debug\CursBD.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Рабочий стол\CursBD\Новая папка\CursBD\CursBD\obj\Debug\CursBD.exe
+C:\Documents and Settings\Admin\Рабочий стол\CursBD\Новая папка\CursBD\CursBD\obj\Debug\CursBD.pdb
+C:\Documents and Settings\Admin\Рабочий стол\CursBD\Новая папка\CursBD\CursBD\bin\Debug\CursBD.exe
+C:\Documents and Settings\Admin\Рабочий стол\CursBD\Новая папка\CursBD\CursBD\bin\Debug\CursBD.pdb
+C:\Documents and Settings\Admin\Рабочий стол\CursBD\Новая папка\CursBD\CursBD\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\CursBD\Новая папка\CursBD\CursBD\obj\Debug\CursBD.ConnectionForm.resources
+C:\Documents and Settings\Admin\Рабочий стол\CursBD\Новая папка\CursBD\CursBD\obj\Debug\CursBD.FormAdminPage.resources
+C:\Documents and Settings\Admin\Рабочий стол\CursBD\Новая папка\CursBD\CursBD\obj\Debug\CursBD.FormMain.resources
+C:\Documents and Settings\Admin\Рабочий стол\CursBD\Новая папка\CursBD\CursBD\obj\Debug\CursBD.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\CursBD\Новая папка\CursBD\CursBD\obj\Debug\CursBD.csproj.GenerateResource.Cache
+F:\CursBD\CursBD\obj\Debug\CursBD.FormPacient.resources
+F:\CursBD\CursBD\obj\Debug\CursBD.FormDistrictsDoctors.resources

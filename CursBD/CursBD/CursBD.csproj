@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B6B0BF7D-8726-4C8C-93ED-630B3E2676F6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CursBD</RootNamespace>
+    <AssemblyName>CursBD</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConnectionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConnectionForm.Designer.cs">
+      <DependentUpon>ConnectionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetDistrictDoctors.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetDistrictDoctors.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdminPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdminPage.Designer.cs">
+      <DependentUpon>FormAdminPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDeleteDistricsSheldure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDeleteDistricsSheldure.Designer.cs">
+      <DependentUpon>FormDeleteDistricsSheldure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDeleteDistrictsDoctors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDeleteDistrictsDoctors.Designer.cs">
+      <DependentUpon>FormDeleteDistrictsDoctors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDeletePacients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDeletePacients.Designer.cs">
+      <DependentUpon>FormDeletePacients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDeleteProcedureSheldure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDeleteProcedureSheldure.Designer.cs">
+      <DependentUpon>FormDeleteProcedureSheldure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDeleteServices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDeleteServices.Designer.cs">
+      <DependentUpon>FormDeleteServices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDeleteSpecialDoctors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDeleteSpecialDoctors.Designer.cs">
+      <DependentUpon>FormDeleteSpecialDoctors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDeleteSpecialSheldure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDeleteSpecialSheldure.Designer.cs">
+      <DependentUpon>FormDeleteSpecialSheldure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDistricsSheldure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDistricsSheldure.Designer.cs">
+      <DependentUpon>FormDistricsSheldure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDistrictsDoctors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDistrictsDoctors.Designer.cs">
+      <DependentUpon>FormDistrictsDoctors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDoctorPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDoctorPage.Designer.cs">
+      <DependentUpon>FormDoctorPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditDistricsSheldure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditDistricsSheldure.Designer.cs">
+      <DependentUpon>FormEditDistricsSheldure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditDistrictsDoctors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditDistrictsDoctors.Designer.cs">
+      <DependentUpon>FormEditDistrictsDoctors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditPacients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditPacients.Designer.cs">
+      <DependentUpon>FormEditPacients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditProcedureSheldure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditProcedureSheldure.Designer.cs">
+      <DependentUpon>FormEditProcedureSheldure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditServices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditServices.Designer.cs">
+      <DependentUpon>FormEditServices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditSpecialDoctors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditSpecialDoctors.Designer.cs">
+      <DependentUpon>FormEditSpecialDoctors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditSpecialSheldure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditSpecialSheldure.Designer.cs">
+      <DependentUpon>FormEditSpecialSheldure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPacient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPacient.Designer.cs">
+      <DependentUpon>FormPacient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPacients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPacients.Designer.cs">
+      <DependentUpon>FormPacients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProcedureSheldure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProcedureSheldure.Designer.cs">
+      <DependentUpon>FormProcedureSheldure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormServices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormServices.Designer.cs">
+      <DependentUpon>FormServices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSpecialDoctors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSpecialDoctors.Designer.cs">
+      <DependentUpon>FormSpecialDoctors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSpecialSheldure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSpecialSheldure.Designer.cs">
+      <DependentUpon>FormSpecialSheldure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormViewCab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormViewCab.Designer.cs">
+      <DependentUpon>FormViewCab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormViewDistricsSheldure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormViewDistricsSheldure.Designer.cs">
+      <DependentUpon>FormViewDistricsSheldure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormViewDistricts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormViewDistricts.Designer.cs">
+      <DependentUpon>FormViewDistricts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormViewDistrictsDoctors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormViewDistrictsDoctors.Designer.cs">
+      <DependentUpon>FormViewDistrictsDoctors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormViewPacients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormViewPacients.Designer.cs">
+      <DependentUpon>FormViewPacients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormViewProcedureCab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormViewProcedureCab.Designer.cs">
+      <DependentUpon>FormViewProcedureCab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormViewProcedureSheldure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormViewProcedureSheldure.Designer.cs">
+      <DependentUpon>FormViewProcedureSheldure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormViewRecieve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormViewRecieve.Designer.cs">
+      <DependentUpon>FormViewRecieve.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormViewRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormViewRecord.Designer.cs">
+      <DependentUpon>FormViewRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormViewServices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormViewServices.Designer.cs">
+      <DependentUpon>FormViewServices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormViewServicesRendered.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormViewServicesRendered.Designer.cs">
+      <DependentUpon>FormViewServicesRendered.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormViewSpecialDoctors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormViewSpecialDoctors.Designer.cs">
+      <DependentUpon>FormViewSpecialDoctors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormViewSpecialSheldure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormViewSpecialSheldure.Designer.cs">
+      <DependentUpon>FormViewSpecialSheldure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ConnectionForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ConnectionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdminPage.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormAdminPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDistrictsDoctors.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormDistrictsDoctors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPacient.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormPacient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="DataSetDistrictDoctors.xsc">
+      <DependentUpon>DataSetDistrictDoctors.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetDistrictDoctors.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetDistrictDoctors.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetDistrictDoctors.xss">
+      <DependentUpon>DataSetDistrictDoctors.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
